@@ -8,4 +8,4 @@
 
 • Совместим только с x64, .NET framework 3.5, Civil 3D 2016
 
-![Image alt](https://raw.githubusercontent.com/Uniges/CivilPlugin/master/temp/logo.png)
+![Image alt](https://raw.githubusercontent.com/Uniges/Civil3DPlugin/master/temp/logo.png)
